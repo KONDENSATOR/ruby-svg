@@ -1,3 +1,4 @@
+# => 
 class Svg
 private
   class CoreObject
